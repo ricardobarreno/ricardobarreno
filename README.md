@@ -1,4 +1,4 @@
-# ¡Hola, soy Ricardo! 👋
+![alt](./images/github-header-image.png)
 
 ## Acerca de mi
 
